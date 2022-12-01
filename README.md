@@ -1,3 +1,3 @@
 # typescript-nodejs-express
 
-Simple CRUD API using TypeScrip with Node.js and Express
+Simple CRUD API using TypeScript with Node.js and Express
